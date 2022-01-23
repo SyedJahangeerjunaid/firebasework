@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar-ul {
+  list-style-type: none;
+}
+.list {
+  list-style: none;
+  display: inline-flex;
+  margin: 1em;
+}
+.color {
+  color: black;
+}
